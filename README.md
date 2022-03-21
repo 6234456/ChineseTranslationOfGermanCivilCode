@@ -1,2 +1,7 @@
-# ChineseTranslationOfGermanCivilCode
-德国民法典中译 /  chinesische Übersetzung des BGB
+# 德国民法典中译 /  chinesische Übersetzung des BGB
+
+## 00.关于本项目
+总结中德民商领域交流实践心得，结合个人对于两国民商体系理解，发起本项目，旨在为在德投资的国人企业提供了解德国民商体系第一手资料。
+
+## 01.项目规划
+拟翻译 总则 债权 物权 前三编。以2021年12月21日的版本为依据。翻译会附加本人相应注释
